@@ -23,7 +23,7 @@ hyperframe==5.2.0
 idna==2.10
 lxml==4.8.0
 molmass==2021.6.18
-multidict==6.0.2
+multidict==4.0
 nextcord==2.0.0a10
 numpy==1.22.3
 Pillow==9.0.1
