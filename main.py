@@ -16,7 +16,7 @@ if __name__ == '__main__':
         if filename.endswith('.py'):
             client.load_extension(f'cogs.{filename[:-3]}')
 #--------------------------------------------
-client.run('OTM5NjMxODI3MTEzNjMxNzg0.Yf7qVQ.2g1DpGfSpZBWrLEcRgK2W8qgmYA')
+client.run('OTM5NjMxODI3MTEzNjMxNzg0.Yf7qVQ.x1zh6DZIGVvfD4j1P7Qk7dhu8uo')
 
 
 
